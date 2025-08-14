@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/flickleafy-mcp-github-repo-creator-badge.png)](https://mseep.ai/app/flickleafy-mcp-github-repo-creator)
+
 # MCP GitHub Repository Creator
 
 A **Model Context Protocol (MCP)** server that provides tools for AI applications like GitHub Copilot to analyze repositories and create GitHub repositories automatically.
